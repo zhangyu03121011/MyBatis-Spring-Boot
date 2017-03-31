@@ -4,7 +4,7 @@
 - [mybatis-spring-boot-starter 1.1.1](https://github.com/mybatis/spring-boot-starter)
 - [mapper-spring-boot-starter 1.1.0](https://github.com/abel533/mapper-boot-starter)
 - [pagehelper-spring-boot-starter 1.1.0](https://github.com/pagehelper/pagehelper-spring-boot)
-
+- [spring-boot-starter-log4j 2.7]
 ## 项目依赖
 ```xml
 <!--mybatis-->
